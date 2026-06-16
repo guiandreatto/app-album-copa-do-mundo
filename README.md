@@ -1,6 +1,6 @@
-# ⚽ Sticker Tracker - Copa do Mundo 2022
+# ⚽ Sticker Tracker - Copa do Mundo
 
-Aplicativo mobile para controle de figurinhas do álbum da Copa do Mundo FIFA 2022. Permite criar uma conta, marcar figurinhas obtidas, controlar repetidas e acompanhar o progresso de conclusão do álbum.
+Aplicativo mobile para controle de figurinhas do álbum da Copa do Mundo. Permite criar uma conta, marcar figurinhas obtidas, controlar repetidas e acompanhar o progresso de conclusão do álbum.
 
 > Projeto acadêmico desenvolvido com **Ionic + Angular** no frontend e **Node.js + Express + SQLite** no backend.
 
